@@ -27,3 +27,5 @@ ResultPage (PowerMockPage)
 
 
 прочесть про http://ru.selenide.org/
+
+java https://javarush.ru/
