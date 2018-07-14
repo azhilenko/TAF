@@ -63,6 +63,17 @@ public class TestInitial {
         Thread.sleep(3000);
     }
 
+    @Test
+    public void test3(){
+        //TODO search for junit
+//        FirefoxDriverManager.getInstance().setup();
+//        driver = new FirefoxDriver();
+//        driver.navigate().to("https://mvnrepository.com");
+//        MavenPage page = PageFactory.initElements(driver,MavenPage.class);
+//        page.inputSearchValue("junit");/
+
+
+    }
     @After
     public void tearDown() {
         driver.quit();
