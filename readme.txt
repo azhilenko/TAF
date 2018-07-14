@@ -29,3 +29,7 @@ ResultPage (PowerMockPage)
 прочесть про http://ru.selenide.org/
 
 java https://javarush.ru/
+
+for agile projects
+Scrum
+https://cucumber.io/
